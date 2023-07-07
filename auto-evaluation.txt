@@ -1,0 +1,8 @@
+Bonjour Comme auto-évaluation : 
+++ database : j'ai utilise postgres .
+++ springboot avec data jpa et swagger pour la ducumentation API DOC
+++ j'ai bien travailler la partie code. 
+++ je peux faire mieux s'il y a de temps supplementaire... 
+++ la deuxieme partie est simple à condition de bien utilisé les path de la manire approprié.
+++ le besoin est fait avec success :) 
+
